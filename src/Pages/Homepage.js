@@ -16,7 +16,7 @@ import {
 } from "../Files/utilities";
 import { useStateValue } from "../Files/StateProvider";
 import { actionTypes } from "../Files/reducer";
-// import Copyright from "../Components/Copyright";
+import Copyright from "../Components/Copyright";
 
 const Homepage = ({ displayName }) => {
   let [{ currentUser, fetchedUserDetails }, dispatch] = useStateValue();
