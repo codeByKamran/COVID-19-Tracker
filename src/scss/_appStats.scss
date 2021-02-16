@@ -1,0 +1,38 @@
+.app__stats {
+  margin: 0rem 1rem 1rem;
+}
+
+.infoCard {
+  padding: 0.25rem 1rem;
+  flex: 1;
+  margin-right: 10px;
+
+  &:nth-child(4) {
+    margin-right: 0;
+  }
+}
+
+.activeInfo__box {
+  border-top: 7.5px solid #a0f5f3;
+}
+
+.infoCard__title {
+  font-family: "Poppins", sans-serif;
+  color: #6c757d;
+  font-size: 18px;
+  font-weight: 700;
+  text-align: left !important;
+}
+
+.infoCard__plus {
+  color: #cc1034;
+  font-size: 22px;
+  margin-top: 15px;
+}
+
+.infoCard__total {
+  color: #6c757d;
+  font-size: 15px;
+  font-weight: 700;
+  margin-top: 15px;
+}
