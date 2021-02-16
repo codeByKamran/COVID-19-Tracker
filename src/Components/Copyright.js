@@ -6,7 +6,7 @@ const CopyrightSection = () => {
     <div className="copyright__section">
       <h1>
         @This <strong>COVID-19 Tracker</strong> is built by{" "}
-        <a href="https://kamran-covid19tracker.netlify.app/" target="_blank">
+        <a href="https://kamran-personal-portfolio.netlify.app/" target="_blank">
           Kamran A.
         </a>
         with <strong>React</strong> to Showcase Skills@
