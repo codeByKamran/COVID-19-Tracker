@@ -295,7 +295,7 @@ const Homepage = ({ displayName }) => {
           </div>
         </div>
       )}
-      {/* <Copyright /> */}
+      <Copyright />
     </div>
   );
 };
